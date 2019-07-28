@@ -1,0 +1,121 @@
+.nav-item {
+	margin: 10px 30px 10px;
+	margin-left: auto;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+.navbar-brand {
+	text-transform: uppercase;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+	font-size:36px;
+}
+
+.jumbotron span{
+
+	color: green;
+	font-size: 46px;	
+}
+
+.tombol {
+	font-weight: 600;
+	border-radius: 20px;
+	text-transform: uppercase;
+	margin-top: 30px;
+
+
+
+}
+.jumbotron h1 {
+	font-size: 28px;
+
+}
+.jumbotron {
+	background-image: url(img/1.jpg);
+	background-size: cover;
+	height: 400px;
+	background-repeat: no-repeat;
+	text-align: center;
+	padding-top:70px;
+	background-blend-mode: hard-light;
+	background-position: cover;
+}
+
+.judul{
+	text-align: center;
+}
+.judul h2 {
+	color:blue;
+	padding-bottom: 10px;
+}
+
+.btn {
+	text-align:center;
+	margin: 25px 25px;
+}
+
+.footer{
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 10px;
+}
+
+.tentang h2{
+	text-align: center;
+	color:#007BFF;
+	margin-top:2%;
+	text-transform:uppercase;
+	margin-bottom:3%;	
+}
+
+.tentang img {
+	width: 	100%;
+	height: 100%;
+}
+.ayo {
+	margin-top:2%;
+	margin-bottom: 4%;
+}
+.dosen {
+	font-family: 'Source Sans Pro', sans-serif;
+	color:#007BFF;
+	margin-top: 30px;
+	text-transform: uppercase;
+}
+.dosen img {
+	margin-top: 20px;
+	width: 200px;
+	margin-left: 75px;
+}
+.dosen h4 {
+	text-align: center;
+	padding-top: 10px;
+	color: #ffbf00;
+
+}
+.btn-succes {
+	background-color: green;
+	border-radius: 50px;
+}
+.dosen a {
+	margin-top:-10px;
+	color: white;
+}
+
+.kontak h1{
+	color:#007BFF;
+	text-align: center;
+	margin-top: 30px;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+.kontak h4 {
+	
+	font-size: 1.5rem;
+	line-height: 1.2;
+}
+
+.kontak 
+
